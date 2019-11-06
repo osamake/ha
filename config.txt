@@ -3,4 +3,4 @@ prefix=S
 game=Splay Shelp
 stayinchannel=true
 songinstatus=true
-token=NjQxMTY1MDEzNTI4MDg0NDkx.XcJVWw.mkZL2f_t9ekVRmt7bF9UGv8d9Cg
+token=NjQxMTY1MDEzNTI4MDg0NDkx.XcJb_w.2XJSy92ZIFEcfxeV_0AqhwAppt0
